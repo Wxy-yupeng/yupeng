@@ -22,7 +22,7 @@ bio: My research interests include distributed mathmatics, mobile computing and 
 
 interests:
 - Theoretical Physics
-- Computational Linguistics
+- 233
 - Information Retrieval
 
 education:
@@ -44,16 +44,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:".
-- icon: twitter
-  icon_pack: fab
-  link: https://www.csdn.net/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://www.csdn.net/
+  link: 'mailto:xy647m2@mail.ustc.edu.cn'  # For a direct email link, use "mailto:xy647m2@mail.ustc.edu.cn".
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Wxy-yupeng/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
