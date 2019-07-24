@@ -8,7 +8,7 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
-# Automatically link email and phone?
+# xy647m2@mail.ustc.edu.cn
 autolink = true
 
 # Email form provider
