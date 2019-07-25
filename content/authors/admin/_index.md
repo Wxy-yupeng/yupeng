@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed mathmatics, mobile computing and programmable matter.
+bio: 2333333
 
 interests:
 - Theoretical Physics
