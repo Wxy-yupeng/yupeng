@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "鸡氏草鞋皮包有限公司"
-  organization_url = ""
+  organization_url = "https://www.coursera.org"
   title = "嗑瓜子小能手"
   url = ""
   certificate_url = "https://www.coursera.org"
